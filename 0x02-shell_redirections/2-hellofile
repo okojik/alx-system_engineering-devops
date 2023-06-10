@@ -1,2 +1,2 @@
 #!/bin/bash
-fopen /etc/passwd
+cat /etc/password 
